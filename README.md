@@ -4,7 +4,7 @@ Workshop_1
 
 Library    Selenium2Library
 
-Test Case
+Test Cases
 
   1.Open Browser Google
   
