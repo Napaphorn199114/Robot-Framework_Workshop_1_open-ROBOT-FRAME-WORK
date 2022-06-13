@@ -11,3 +11,7 @@ Test Cases
   2.Input Text "Robot Framework" Search
   
   3.Check title and print title to console
+  
+Run Program with VS Code
+
+robot_day1.robot
